@@ -2,3 +2,5 @@
 ```Python
 
 import sample
+
+sample
