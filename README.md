@@ -1,4 +1,4 @@
 # Urban_final
-$ npm i sample.ipynb
+$ npm i sample
 
-import sample.ipynb
+import sample
