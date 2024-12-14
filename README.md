@@ -1,4 +1,4 @@
 # Urban_final
-$ npm i Diplom.sample
+```Python
 
-import Diplom.sample
+import sample
